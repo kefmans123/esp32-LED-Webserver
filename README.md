@@ -5,9 +5,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/kefmans123/Esp32-LED-Webserver) ![GitHub top language](https://img.shields.io/github/languages/top/kefmans123/Esp32-LED-Webserver) ![GitHub repo size](https://img.shields.io/github/repo-size/kefmans123/Esp32-LED-Webserver)
 
 ## Project assignment
-###The assignment that we got for this project includes the following: 
-  ####-Connect the breadboard to the ESP32
-  ####-Connect a button that causes the LED to light up when pressed
-  ####-Host a local webserver that shows when the LED is lit up
-  ####-Connect your ESP32 to your own network
-  ####-If no connection is made, make the LED blink
+The assignment that we got for this project includes the following: 
+  * Connect the breadboard to the ESP32
+  * Connect a button that causes the LED to light up when pressed
+  * Host a local webserver that shows when the LED is lit up
+  * Connect your ESP32 to your own network
+  * If no connection is made, make the LED blink
