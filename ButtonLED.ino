@@ -2,7 +2,7 @@
 #include <WebServer.h>
 
 const char* ssid = "Test test";
-const char* password = "bartisgay";
+const char* password = "*******";
 String titlename = "test";
 String body = "<h1>Hello world!</h1>";
 String HTML = 
